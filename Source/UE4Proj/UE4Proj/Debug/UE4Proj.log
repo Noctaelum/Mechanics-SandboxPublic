@@ -1,0 +1,5 @@
+﻿  CustomFPCharacter.cpp
+C:\Users\leode\Desktop\gitrepos\ct5009-assessment-1-mechanics-sandbox-Noctaelum\Source\UE4Proj\Private\CustomFPCharacter.cpp(4,10): fatal error C1083: Cannot open include file: 'CustomFPCharacter.h': No such file or directory
+  CustomPlayerController.cpp
+C:\Users\leode\Desktop\gitrepos\ct5009-assessment-1-mechanics-sandbox-Noctaelum\Source\UE4Proj\Private\CustomPlayerController.cpp(4,10): fatal error C1083: Cannot open include file: 'CustomPlayerController.h': No such file or directory
+  Generating Code...
